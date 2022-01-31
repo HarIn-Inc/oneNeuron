@@ -1,0 +1,2 @@
+# oneNeuron
+Perceptron - oneNeuron
